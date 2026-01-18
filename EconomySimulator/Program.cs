@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace EconomySimulator
 {
-    public class Program()
+    public class Program
     {
         public static void Main()
         {
