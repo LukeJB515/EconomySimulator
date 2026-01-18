@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EconomySimulator
 {
-    class Player
+    public class Player
     {
     }
 }

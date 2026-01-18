@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace EconomySimulator
 {
-    class TaskResult
+    public class TaskResult
     {
+        public TaskOutcome Outcome { get; }
+        public string Message { get; }
+
+        public TaskResult(TaskOutcome outcome, string message)
+        {
+            Outcome = outcome;
+            Message = message;
+        }
     }
 }

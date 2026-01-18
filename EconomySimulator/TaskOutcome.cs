@@ -8,5 +8,8 @@ namespace EconomySimulator
 {
     public enum TaskOutcome
     {
+        Success,
+        Failure,
+        Interrupted
     }
 }

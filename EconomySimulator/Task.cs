@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace EconomySimulator
 {
-    class Task
+    public class Task
     {
+        public enum TaskType
+        {
+            Planning,
+            Execution,
+            Emergency
+        }
     }
 }
