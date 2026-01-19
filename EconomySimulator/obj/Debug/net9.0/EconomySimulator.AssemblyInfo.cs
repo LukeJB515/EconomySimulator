@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EconomySimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+139c0466e708297d0d6a2b07dc031e45b958412e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7c77571267ddae4bac3b23ba53c728f15cdd160")]
 [assembly: System.Reflection.AssemblyProductAttribute("EconomySimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EconomySimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
