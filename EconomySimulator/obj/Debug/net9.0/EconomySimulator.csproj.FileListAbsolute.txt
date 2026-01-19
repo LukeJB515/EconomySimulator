@@ -1,0 +1,15 @@
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\bin\Debug\net9.0\EconomySimulator.exe
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\bin\Debug\net9.0\EconomySimulator.deps.json
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\bin\Debug\net9.0\EconomySimulator.runtimeconfig.json
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\bin\Debug\net9.0\EconomySimulator.dll
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\bin\Debug\net9.0\EconomySimulator.pdb
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\obj\Debug\net9.0\EconomySimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\obj\Debug\net9.0\EconomySimulator.AssemblyInfoInputs.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\obj\Debug\net9.0\EconomySimulator.AssemblyInfo.cs
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\obj\Debug\net9.0\EconomySimulator.csproj.CoreCompileInputs.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\obj\Debug\net9.0\EconomySimulator.sourcelink.json
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\obj\Debug\net9.0\EconomySimulator.dll
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\obj\Debug\net9.0\refint\EconomySimulator.dll
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\obj\Debug\net9.0\EconomySimulator.pdb
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\obj\Debug\net9.0\EconomySimulator.genruntimeconfig.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\AsyncGame\New folder\EconomySimulator\EconomySimulator\obj\Debug\net9.0\ref\EconomySimulator.dll

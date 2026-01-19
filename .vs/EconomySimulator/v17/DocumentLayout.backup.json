@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\asyncgame\\new folder\\economysimulator\\economysimulator\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|solutionrelative:economysimulator\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\asyncgame\\new folder\\economysimulator\\economysimulator\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|solutionrelative:economysimulator\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\asyncgame\\new folder\\economysimulator\\economysimulator\\taskresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|solutionrelative:economysimulator\\taskresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\asyncgame\\new folder\\economysimulator\\economysimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|solutionrelative:economysimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\asyncgame\\new folder\\economysimulator\\economysimulator\\taskoutcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|solutionrelative:economysimulator\\taskoutcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\asyncgame\\new folder\\economysimulator\\economysimulator\\taskqueuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|solutionrelative:economysimulator\\taskqueuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\asyncgame\\new folder\\economysimulator\\economysimulator\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|solutionrelative:economysimulator\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\asyncgame\\new folder\\economysimulator\\economysimulator\\gametask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|solutionrelative:economysimulator\\gametask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\asyncgame\\new folder\\economysimulator\\economysimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05367E20-C30D-4659-A98F-6948FA24DE16}|EconomySimulator\\EconomySimulator.csproj|solutionrelative:economysimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,71 +26,32 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\Game.cs",
-              "RelativeDocumentMoniker": "EconomySimulator\\Game.cs",
-              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\Game.cs",
-              "RelativeToolTip": "EconomySimulator\\Game.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T01:27:58.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\Task.cs",
-              "RelativeDocumentMoniker": "EconomySimulator\\Task.cs",
-              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\Task.cs",
-              "RelativeToolTip": "EconomySimulator\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T01:27:38.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TaskResult.cs",
-              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\TaskResult.cs",
-              "RelativeDocumentMoniker": "EconomySimulator\\TaskResult.cs",
-              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\TaskResult.cs",
-              "RelativeToolTip": "EconomySimulator\\TaskResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Title": "GameTask.cs",
+              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\GameTask.cs",
+              "RelativeDocumentMoniker": "EconomySimulator\\GameTask.cs",
+              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\GameTask.cs",
+              "RelativeToolTip": "EconomySimulator\\GameTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T01:27:29.035Z",
+              "WhenOpened": "2026-01-19T01:55:26.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskOutcome.cs",
-              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\TaskOutcome.cs",
-              "RelativeDocumentMoniker": "EconomySimulator\\TaskOutcome.cs",
-              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\TaskOutcome.cs",
-              "RelativeToolTip": "EconomySimulator\\TaskOutcome.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TaskQueueManager.cs",
+              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\TaskQueueManager.cs",
+              "RelativeDocumentMoniker": "EconomySimulator\\TaskQueueManager.cs",
+              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\TaskQueueManager.cs",
+              "RelativeToolTip": "EconomySimulator\\TaskQueueManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAnwCcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T01:26:56.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\Player.cs",
-              "RelativeDocumentMoniker": "EconomySimulator\\Player.cs",
-              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\Player.cs",
-              "RelativeToolTip": "EconomySimulator\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T01:26:44.083Z",
+              "WhenOpened": "2026-01-19T01:44:13.296Z",
               "EditorCaption": ""
             },
             {
@@ -109,9 +62,22 @@
               "RelativeDocumentMoniker": "EconomySimulator\\Program.cs",
               "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\Program.cs",
               "RelativeToolTip": "EconomySimulator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T23:23:11.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\Player.cs",
+              "RelativeDocumentMoniker": "EconomySimulator\\Player.cs",
+              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\AsyncGame\\New folder\\EconomySimulator\\EconomySimulator\\Player.cs",
+              "RelativeToolTip": "EconomySimulator\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T01:26:44.083Z",
               "EditorCaption": ""
             }
           ]

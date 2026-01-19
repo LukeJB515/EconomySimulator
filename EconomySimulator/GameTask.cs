@@ -26,5 +26,12 @@ namespace EconomySimulator
                 "Task completed successfully."
             );
         }
+
+        public async Task<TaskResult> ExecuteAsync()
+        {
+            Console.WriteLine($"Started task: {Name}");
+            await Task.Delay(DurationSeconds * 1000);
+            return ResolveOutcome();
+        }
     }
 }
